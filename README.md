@@ -1,7 +1,5 @@
 # Welcome! I am Noam
-
-## About me:
-##I am a former journalist turned NLP researcher. I love working with textual data, low resource languages and evaluation. 
+I am a former journalist turned NLP researcher. I love working with textual data, low resource languages and evaluation. 
 
 ## Some publications & projects:
 
