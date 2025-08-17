@@ -16,6 +16,7 @@ A task-agnostic framework for multi-prompt generation. It automates robust promp
 <p align="center">
   <img src="promptsuite.png" alt="plot">
 </p>
+
 ### Data Collection 
 A real-world dataset for training and evaluating question answering models in Hebrew.
 Built by combining Israeli news sources with TL;DR-style posts from Facebook.
