@@ -21,5 +21,5 @@ Coming soon: summarization datasets!
 
 ## Let's connect!
 - LinkedIn: [Noam Dahan](https://www.linkedin.com/in/noam-dahan-4494a52b0/)  
-- X (Twitter): [Dahan_Noam]([https://linkedin.com/in/your-username](https://x.com/Dahan_Noam))
+- X (Twitter): [Dahan_Noam](https://x.com/Dahan_Noam)
 - email: edahanoam@gmail.com  
