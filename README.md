@@ -1,4 +1,4 @@
-# Welcome! I am Noam
+# Welcome, I am Noam!
 I am a former journalist turned NLP researcher. I love working with textual data, low resource languages and evaluation. 
 
 ## Some publications & projects:
