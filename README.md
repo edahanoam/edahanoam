@@ -12,7 +12,7 @@ Survey accepted to NAACL 2025: we review 133 summarization datasets across 100+ 
 
 ### PromptSuite
 A task-agnostic framework for multi-prompt generation. It automates robust prompt variations through a modular, extensible design, with both a Python API and web interface.  
-[Paper](https://arxiv.org/abs/2507.14913), [Demo Video](https://www.youtube.com/watch?v=kJP2_ucGsXA)
+[Paper](https://arxiv.org/abs/2507.14913), [Demo Video](https://www.youtube.com/watch?v=kJP2_ucGsXA), [Repo](https://github.com/eliyahabba/PromptSuite)
 <p align="center">
   <img src="promptsuite.png" alt="plot">
 </p>
