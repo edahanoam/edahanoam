@@ -14,7 +14,7 @@ We review 133 summarization datasets across 100+ languages, introduce a dataset 
 A task-agnostic framework for multi-prompt generation. It automates robust prompt variations through a modular, extensible design, with both a Python API and web interface (EMNLP 2025).
 [Paper](https://arxiv.org/abs/2507.14913), [Demo Video](https://www.youtube.com/watch?v=kJP2_ucGsXA), [Repo](https://github.com/eliyahabba/PromptSuite) 
 <p align="center">
-  <img src="prompt.drawio.png" alt="plot">
+  <img src="prompt.png" alt="plot">
 </p>
 
 ### Data Collection 
