@@ -1,6 +1,6 @@
 # Welcome, I am Noam!
 I am a former journalist turned NLP researcher. I love working with textual data, low resource languages and evaluation. 
-
+You can find my personal website [here](https://edahanoam.github.io/).
 ## Some publications & projects:
 
 ### The State and Fate of Summarization Datasets
