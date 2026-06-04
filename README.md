@@ -11,6 +11,15 @@ We review 133 summarization datasets across 100+ languages, introduce a dataset 
   <img src="survey.png" alt="plot">
 </p>
 
+
+### Leveraging Digitized Newspapers for Hebrew Summarization Data 
+ We show how front-page newspaper teasers can be leveraged to create summarization datasets across diverse languages and release HEBTEASESUM, the first dedicated Hebrew multi-document summarization dataset (EACL 2026 Findings).
+[Paper](https://aclanthology.org/2026.findings-eacl.278/), [Repo](https://github.com/edahanoam/HebTeaseSum/tree/main)
+<p align="center">
+  <img src="heb.png" alt="plot">
+</p>
+
+
 ### PromptSuite
 A task-agnostic framework for multi-prompt generation. It automates robust prompt variations through a modular, extensible design, with both a Python API and web interface (EMNLP 2025).
 [Paper](https://arxiv.org/abs/2507.14913), [Demo Video](https://www.youtube.com/watch?v=kJP2_ucGsXA), [Repo](https://github.com/eliyahabba/PromptSuite) 
@@ -18,11 +27,10 @@ A task-agnostic framework for multi-prompt generation. It automates robust promp
   <img src="prompt.drawio.png" alt="plot">
 </p>
 
-### Data Collection 
+### Older Data Collection 
 A real-world dataset for training and evaluating question answering models in Hebrew.
 Built by combining Israeli news sources with TL;DR-style posts from Facebook.  
 [Hugging Face 🤗](https://huggingface.co/datasets/daria-lioub/heb_amlk_for_QA), [Repo](https://github.com/daria-lioubashevski/Saved_You_A_Click_In_Hebrew/tree/main)  
-Coming soon: summarization datasets! 
 
 ---
 
